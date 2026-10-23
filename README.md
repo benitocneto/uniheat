@@ -21,7 +21,7 @@ O UniHeat funciona como um mapa de calor da universidade, alimentado pelos próp
 
 ## Demonstração
 
-https://github.com/user-attachments/assets/157d8bd5-c246-4d26-9aef-040b1cf78a9b
+https://github.com/user-attachments/assets/62d0a13a-4285-4c33-8373-a2c43870b992
 
 ## Telas
 
