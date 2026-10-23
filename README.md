@@ -4,7 +4,7 @@ App mobile que mostra quais áreas da UNIFOR estão tranquilas ou movimentadas, 
 
 Projeto da disciplina Experimentação Orientada, no curso de Ciência da Computação da UNIFOR (2026).
 
-<p align="center"><img src="capa.png" alt="Capa do UniHeat" width="320"></p>
+<p align="center"><img src="Imagens/capa.png" alt="Capa do UniHeat" width="320"></p>
 
 ## O problema
 
@@ -27,7 +27,7 @@ O UniHeat funciona como um mapa de calor da universidade, alimentado pelos próp
 
 | Login | Mapa de calor | Chat geral | Perfil |
 | --- | --- | --- | --- |
-| ![Login](login.PNG) | ![Mapa](mapa.PNG) | ![Chat](chat.PNG) | ![Perfil](perfil.PNG) |
+| ![Login](Imagens/login.PNG) | ![Mapa](Imagens/mapa.PNG) | ![Chat](Imagens/chat.PNG) | ![Perfil](Imagens/perfil.PNG) |
 
 ## Tecnologias
 
